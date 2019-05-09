@@ -1,0 +1,269 @@
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\WebAPICRUD.dll.config
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\WebAPICRUD.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\WebAPICRUD.pdb
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\csc.exe
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\csc.exe.config
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\csc.rsp
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\csi.exe
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\csi.exe.config
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\csi.rsp
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Console.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\vbc.exe
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\vbc.exe.config
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\vbc.rsp
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\Antlr3.Runtime.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\EntityFramework.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Net.Http.Formatting.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.Helpers.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.Http.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.Http.WebHost.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.Mvc.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.Optimization.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.Razor.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\WebGrease.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\EntityFramework.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Net.Http.Formatting.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.Helpers.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.Http.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.Http.WebHost.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.Mvc.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.Optimization.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.Razor.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.csproj.CopyComplete
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.dll
+C:\Users\Dell\source\repos\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.pdb
+D:\WebAPICRUD\WebAPICRUD\bin\WebAPICRUD.dll.config
+D:\WebAPICRUD\WebAPICRUD\bin\WebAPICRUD.dll
+D:\WebAPICRUD\WebAPICRUD\bin\WebAPICRUD.pdb
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\csc.exe
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\csc.exe.config
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\csc.rsp
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\csi.exe
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\csi.exe.config
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\csi.rsp
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.AppContext.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Collections.Immutable.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Console.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.Compression.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.FileSystem.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.Pipes.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.AccessControl.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Claims.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.ValueTuple.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Xml.XPath.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\vbc.exe
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\vbc.exe.config
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\vbc.rsp
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\VBCSCompiler.exe
+D:\WebAPICRUD\WebAPICRUD\bin\roslyn\VBCSCompiler.exe.config
+D:\WebAPICRUD\WebAPICRUD\bin\Antlr3.Runtime.dll
+D:\WebAPICRUD\WebAPICRUD\bin\EntityFramework.dll
+D:\WebAPICRUD\WebAPICRUD\bin\EntityFramework.SqlServer.dll
+D:\WebAPICRUD\WebAPICRUD\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\WebAPICRUD\WebAPICRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebAPICRUD\WebAPICRUD\bin\Microsoft.Web.Infrastructure.dll
+D:\WebAPICRUD\WebAPICRUD\bin\Newtonsoft.Json.dll
+D:\WebAPICRUD\WebAPICRUD\bin\System.Diagnostics.DiagnosticSource.dll
+D:\WebAPICRUD\WebAPICRUD\bin\System.Net.Http.Formatting.dll
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.Helpers.dll
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.Http.dll
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.Http.WebHost.dll
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.Mvc.dll
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.Optimization.dll
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.Razor.dll
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.Deployment.dll
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.dll
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.Razor.dll
+D:\WebAPICRUD\WebAPICRUD\bin\WebGrease.dll
+D:\WebAPICRUD\WebAPICRUD\bin\EntityFramework.xml
+D:\WebAPICRUD\WebAPICRUD\bin\EntityFramework.SqlServer.xml
+D:\WebAPICRUD\WebAPICRUD\bin\Newtonsoft.Json.xml
+D:\WebAPICRUD\WebAPICRUD\bin\System.Net.Http.Formatting.xml
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.Helpers.xml
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.Http.xml
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.Http.WebHost.xml
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.Mvc.xml
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.Optimization.xml
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.Razor.xml
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.xml
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.Deployment.xml
+D:\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.Razor.xml
+D:\WebAPICRUD\WebAPICRUD\bin\Antlr3.Runtime.pdb
+D:\WebAPICRUD\WebAPICRUD\bin\System.Diagnostics.DiagnosticSource.xml
+D:\WebAPICRUD\WebAPICRUD\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\WebAPICRUD\WebAPICRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.csprojAssemblyReference.cache
+D:\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.csproj.CoreCompileInputs.cache
+D:\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.csproj.CopyComplete
+D:\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.dll
+D:\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.pdb
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\WebAPICRUD.dll.config
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\WebAPICRUD.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\WebAPICRUD.pdb
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\csc.exe
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\csc.exe.config
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\csc.rsp
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\csi.exe
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\csi.exe.config
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\csi.rsp
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.AppContext.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Collections.Immutable.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Console.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.Compression.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.FileSystem.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.IO.Pipes.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.AccessControl.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Claims.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.ValueTuple.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Xml.XPath.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\vbc.exe
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\vbc.exe.config
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\vbc.rsp
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\VBCSCompiler.exe
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\roslyn\VBCSCompiler.exe.config
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\Antlr3.Runtime.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\EntityFramework.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\EntityFramework.SqlServer.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\Newtonsoft.Json.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Net.Http.Formatting.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.Helpers.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.Http.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.Http.WebHost.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.Mvc.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.Optimization.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.Razor.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.Deployment.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.Razor.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\WebGrease.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\EntityFramework.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\EntityFramework.SqlServer.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\Newtonsoft.Json.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Net.Http.Formatting.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.Helpers.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.Http.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.Http.WebHost.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.Mvc.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.Optimization.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.Razor.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.Deployment.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Web.WebPages.Razor.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\Antlr3.Runtime.pdb
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.csprojAssemblyReference.cache
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.csproj.CoreCompileInputs.cache
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.csproj.CopyComplete
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.dll
+D:\CODE XAMPLE\ApiCRUD\WebAPICRUD\WebAPICRUD\obj\Debug\WebAPICRUD.pdb
